@@ -1,3 +1,18 @@
+/**
+ *
+ * Author     : Adrian Statescu mergesortv@gmail.com http://adrianstatescu.com
+ *
+ * Description: Heap Sort Algorithm
+ *
+ * Time Complexity in Big O Notation:
+                Worst-case O(n log n)
+ *              Best-case O(n log n)
+ *              Average-case O(n log n)
+ *
+ * MIT License
+ *
+ */
+
 #include <stdio.h>
 #define FIN "algsort.in"
 #define FOUT "algsort.out"
